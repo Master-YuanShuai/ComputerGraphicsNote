@@ -1,0 +1,3 @@
+E:/Study/CG/OGL/Firstobj/cmake-build-debug/CMakeFiles/Firstobj.dir
+E:/Study/CG/OGL/Firstobj/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Study/CG/OGL/Firstobj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
