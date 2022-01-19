@@ -1,0 +1,3 @@
+"D:\Software\IDE\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\OGLOBJ.dir/objects.a
+"D:\Software\IDE\CLion 2021.3.2\bin\mingw\bin\ar.exe" qc CMakeFiles\OGLOBJ.dir/objects.a @CMakeFiles\OGLOBJ.dir\objects1.rsp
+"D:\Software\IDE\CLion 2021.3.2\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\OGLOBJ.dir/objects.a -Wl,--no-whole-archive -o OGLOBJ.exe -Wl,--out-implib,libOGLOBJ.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OGLOBJ.dir\linklibs.rsp
